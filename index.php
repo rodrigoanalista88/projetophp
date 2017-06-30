@@ -10,7 +10,7 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <h3>Sistema de Funcionário</h3>
+        <h3>Sistema de Funcionário - AULA</h3>
         <form method="post" action="cadastrar_ok.php">
             Nome: <br>
             <input type="text" name="nome">
